@@ -1,0 +1,26 @@
+
+[
+    ["suraj","sunil","deshmukh","vipul"],
+{
+ "name": "suraj",
+ "Age": 28,
+ "place": "Thane"
+},
+{
+ "name": "sunil",
+ "Age": 65,
+ "place": "Thane"
+},
+{
+    "name": "deshmukh",
+    "Age": 45,
+    "place": "Thane"
+},
+
+{
+ "name": "vipul",
+ "Age": 31,
+ "place": "Thane"
+}
+]
+
